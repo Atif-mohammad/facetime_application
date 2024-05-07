@@ -26,6 +26,9 @@ const config = {
         blue : {
           1 : '#0e78f9'
         },
+        sky:{
+            1: "#C9DDFF"
+        }
       },
       backgroundImage :{
         hero:"url('/images/hero-background.png')"
