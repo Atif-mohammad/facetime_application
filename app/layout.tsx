@@ -10,7 +10,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "facetime_application",
+  title: "Colloquy",
   description: "A video Calling Application",
   icons: '/icons/logo.svg'
 };
